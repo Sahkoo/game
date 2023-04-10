@@ -1,2 +1,2 @@
 # game
- https://sahkoo.github.io/game
+ https://sahkoo.github.io/game/
